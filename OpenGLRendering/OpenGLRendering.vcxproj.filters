@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLComputeShader.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLMesh.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLShader.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLTexture.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLComputeShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\OGLTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\glad\gl.h">
+      <Filter>GLAD</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503 2022\OpenGLRendering\glad\gl.c">
+      <Filter>GLAD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\CSC8503 2022\OpenGLRendering\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GLAD">
+      <UniqueIdentifier>{9FF6FE0F-588D-3F19-A075-BBD8C2D4B6FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F0442E87-7115-3B3B-ABA2-36174F9C628B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{15686A60-3067-3718-B69A-B21DB8AB5B97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
